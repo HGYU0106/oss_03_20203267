@@ -17,5 +17,14 @@
   `print("Hello World")`
 
   ```bash
-  print("Hello World)
+  print("Hello World")
   ```
+
+| col1 | col2 | col3 | col4 |
+| --- | --- | --- | --- | 
+| col1 | col2 | col3 | col4 |
+| col1 | col2 | col3 | col4 |
+
+*ital*
+**bold**
+***both***
