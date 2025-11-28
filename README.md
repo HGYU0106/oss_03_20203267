@@ -1,5 +1,5 @@
 # 리눅스 명령어 정리: `top`, `ps`, `jobs`, `kill`
-
+## github 페이지 링크: https://github.com/HGYU0106/oss_03_20203267
 > 오픈소스SW개론 03분반 과제#2
 > 
 > **이미지, 테이블, 불렛** 등 다양한 Markdown 기능을 활용해보자!
@@ -16,7 +16,7 @@
 | 수업 | **오픈소스SW개론(03)** |
 | 담당 교수 | **전찬준 교수님** |
 | 이메일 | **khgyu0106@naver.com** |
-| GitHub Address | **(https://github.com/HGYU0106/oss_03_20203267)** |
+| GitHub | **[@HGYU0106](https://github.com/HGYU0106)** |
 | 제출일 | **2025-11-28** |
 
 ---
