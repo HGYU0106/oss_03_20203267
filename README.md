@@ -16,8 +16,8 @@
 | 수업 | **오픈소스SW개론(03)** |
 | 담당 교수 | **전찬준 교수님** |
 | 이메일 | **khgyu0106@naver.com** |
-| GitHub | **[@HGYU0106]([https://github.com/HGYU0106](https://github.com/HGYU0106/oss_03_20203267)** |
-| 제출일 | **2025-11-30** |
+| GitHub Address | **(https://github.com/HGYU0106/oss_03_20203267)** |
+| 제출일 | **2025-11-28** |
 
 ---
 
